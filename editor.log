@@ -1,0 +1,1277 @@
+[LicensingClient] ERROR Failed to connect to local IPC
+[Licensing::Module] Failed to connect to channel: LicenseClient-kabbouchi
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Frameworks/UnityLicensingClient.app/Contents/Resources/Unity.Licensing.Client
+[Licensing::Module] Successfully launched the LicensingClient
+[Licensing::Module] Successfully connected to LicensingClient on channel: LicenseClient-kabbouchi
+[Licensing::Module] Successfully launched and connected to LicensingClient
+Entitlement-based licensing initiated
+[LicensingClient] Licenses Updated successfully in LicensingClient
+DisplayProgressbar: Unity license
+
+LICENSE SYSTEM [202138 14:50:10] Next license update check is after 2021-03-04T11:19:05
+
+[Licensing::Module] Serial number assigned to: "F4-8XNU-J8PT-VSDS-D5C5-XXXX"\n[Package Manager] Server::Start -- Port 52092 was selected
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/Server/UnityPackageManager
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/2019.3.0f6/Unity.app/Contents/MacOS/Unity
+-projectPath
+/Users/kabbouchi/UnityProjects/UnityMobileCITest
+-batchmode
+-nographics
+-quit
+-silent-crashes
+-logFile
+editor.log
+-buildTarget
+iOS
+-executeMethod
+UnityBuild.BatchBuild.Build
+-outputPath
+Output
+Successfully changed project path to: /Users/kabbouchi/UnityProjects/UnityMobileCITest
+/Users/kabbouchi/UnityProjects/UnityMobileCITest
+Using Asset Import Pipeline V2.
+DisplayProgressbar: Unity Package Manager
+Adding genesis user token [Package Manager] Done resolving packages in 0.64s seconds
+[Package Manager] Done checking package constraints in 0.00s seconds
+[Package Manager] 
+Registered 39 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.collab-proxy@1.2.16 (location: /Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/PackageCache/com.unity.collab-proxy@1.2.16)
+    com.unity.ide.rider@1.1.4 (location: /Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/PackageCache/com.unity.ide.rider@1.1.4)
+    com.unity.ide.vscode@1.1.4 (location: /Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/PackageCache/com.unity.ide.vscode@1.1.4)
+    com.unity.test-framework@1.1.9 (location: /Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/PackageCache/com.unity.test-framework@1.1.9)
+    com.unity.textmeshpro@2.0.1 (location: /Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/PackageCache/com.unity.textmeshpro@2.0.1)
+    com.unity.timeline@1.2.10 (location: /Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/PackageCache/com.unity.timeline@1.2.10)
+    com.unity.ext.nunit@1.0.0 (location: /Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/PackageCache/com.unity.ext.nunit@1.0.0)
+  Built-in packages:
+    com.unity.ugui@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui)
+    com.unity.modules.ai@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics)
+    com.unity.modules.tilemap@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap)
+    com.unity.modules.ui@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vehicles@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr)
+    com.unity.modules.wind@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr)
+
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.00s seconds
+Targeting platform: iOS
+Refreshing native plugins compatible for Editor in 24.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2019.3.0f6 (27ab2135bccf)
+[Subsystems] Discovering subsystems at path /Applications/Unity/2019.3.0f6/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/kabbouchi/UnityProjects/UnityMobileCITest/Assets
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+[EnlightenBakeManager] m_Clear = false;
+Initialize mono
+Mono path[0] = '/Applications/Unity/2019.3.0f6/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/2019.3.0f6/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/2019.3.0f6/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56677
+ImportWorker Server TCP listen port: 51528
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/2019.3.0f6/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/2019.3.0f6/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/2019.3.0f6/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/2019.3.0f6/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/2019.3.0f6/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.004457 seconds.
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 19.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.139 seconds
+Registering precompiled user dll's ...
+Registered in 0.057943 seconds.
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000509 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000921 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Refresh completed in 0.000005 seconds.
+- Completed reload, in  1.486 seconds
+Platform modules already initialized, skipping
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions)
+RefreshProfiler: Total: 2313.757ms
+	InvokeBeforeRefreshCallbacks: 0.300ms
+	ApplyChangesToAssetFolders: 0.067ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 31.301ms
+	OnSourceAssetsModified: 0.000ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 0.269ms
+	GetAllGuidsForCategorization: 0.077ms
+	CategorizeAssets: 14.142ms
+	ImportAndPostprocessOutOfDateAssets: 2250.630ms (2249.592ms without children)
+		ImportManagerImport: 0.000ms (0.000ms without children)
+			ImportInProcess: 0.000ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.000ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 0.000ms
+		ReloadImportedAssets: 0.000ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.281ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.141ms
+		OnDemandSchedulerStart: 0.000ms
+		RestoreLoadedAssetsState: 0.616ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: -0.000ms
+	ReloadSourceAssets: 0.345ms
+	UnloadImportedAssets: 0.005ms
+	Hotreload: 0.152ms
+	FixTempGuids: 0.005ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.001ms
+	UnloadStreamsBegin: 0.356ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.003ms
+	GetLoadedSourceAssetsSnapshot: 0.811ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 15.263ms
+	Untracked: 0.030ms
+Refresh completed in 0.053497 seconds.
+RefreshInfo: RefreshV2(ForceSynchronousImport)
+RefreshProfiler: Total: 53.489ms
+	InvokeBeforeRefreshCallbacks: 0.292ms
+	ApplyChangesToAssetFolders: 0.067ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 25.839ms
+	OnSourceAssetsModified: 0.000ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 4.130ms
+	GetAllGuidsForCategorization: 0.115ms
+	CategorizeAssets: 16.415ms
+	ImportAndPostprocessOutOfDateAssets: 3.870ms (1.488ms without children)
+		ImportManagerImport: 0.000ms (0.000ms without children)
+			ImportInProcess: 0.000ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.000ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 0.001ms
+		ReloadImportedAssets: 0.000ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.209ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.080ms
+		OnDemandSchedulerStart: 1.042ms
+		RestoreLoadedAssetsState: 1.050ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: -0.000ms
+	ReloadSourceAssets: 0.577ms
+	UnloadImportedAssets: 0.107ms
+	Hotreload: 0.023ms
+	FixTempGuids: 0.004ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.179ms
+	UnloadStreamsBegin: 0.006ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.736ms
+	GetLoadedSourceAssetsSnapshot: 1.578ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 0.008ms
+	Untracked: -0.456ms
+Refresh completed in 0.033889 seconds.
+RefreshInfo: RefreshV2(ForceSynchronousImport)
+RefreshProfiler: Total: 33.880ms
+	InvokeBeforeRefreshCallbacks: 0.219ms
+	ApplyChangesToAssetFolders: 0.060ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 29.208ms
+	OnSourceAssetsModified: 0.000ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 2.449ms
+	GetAllGuidsForCategorization: 0.000ms
+	CategorizeAssets: 0.000ms
+	ImportAndPostprocessOutOfDateAssets: 0.000ms (0.000ms without children)
+		ImportManagerImport: 0.000ms (0.000ms without children)
+			ImportInProcess: 0.000ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.000ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 0.000ms
+		ReloadImportedAssets: 0.000ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.000ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.000ms
+		RestoreLoadedAssetsState: 0.000ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: -0.000ms
+	ReloadSourceAssets: 0.000ms
+	UnloadImportedAssets: 0.000ms
+	Hotreload: 0.035ms
+	FixTempGuids: 0.006ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.138ms
+	UnloadStreamsBegin: 0.026ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.537ms
+	GetLoadedSourceAssetsSnapshot: 0.439ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 0.010ms
+	Untracked: 0.752ms
+Refresh completed in 0.054841 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions)
+RefreshProfiler: Total: 54.832ms
+	InvokeBeforeRefreshCallbacks: 0.343ms
+	ApplyChangesToAssetFolders: 0.091ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 32.241ms
+	OnSourceAssetsModified: 0.001ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 3.639ms
+	GetAllGuidsForCategorization: 0.087ms
+	CategorizeAssets: 14.176ms
+	ImportAndPostprocessOutOfDateAssets: 1.825ms (0.687ms without children)
+		ImportManagerImport: 0.000ms (0.000ms without children)
+			ImportInProcess: 0.000ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.000ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 0.000ms
+		ReloadImportedAssets: 0.000ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.174ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.081ms
+		OnDemandSchedulerStart: 0.157ms
+		RestoreLoadedAssetsState: 0.726ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: -0.000ms
+	ReloadSourceAssets: 0.674ms
+	UnloadImportedAssets: 0.086ms
+	Hotreload: 0.042ms
+	FixTempGuids: 0.002ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.195ms
+	UnloadStreamsBegin: 0.046ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.403ms
+	GetLoadedSourceAssetsSnapshot: 1.264ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 0.006ms
+	Untracked: -0.289ms
+Refresh completed in 0.042679 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions)
+RefreshProfiler: Total: 42.673ms
+	InvokeBeforeRefreshCallbacks: 0.161ms
+	ApplyChangesToAssetFolders: 0.066ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 24.148ms
+	OnSourceAssetsModified: 0.001ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 1.851ms
+	GetAllGuidsForCategorization: 0.127ms
+	CategorizeAssets: 12.267ms
+	ImportAndPostprocessOutOfDateAssets: 1.981ms (0.733ms without children)
+		ImportManagerImport: 0.000ms (0.000ms without children)
+			ImportInProcess: 0.000ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.000ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 0.000ms
+		ReloadImportedAssets: 0.000ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.158ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.074ms
+		OnDemandSchedulerStart: 0.175ms
+		RestoreLoadedAssetsState: 0.840ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: -0.000ms
+	ReloadSourceAssets: 0.721ms
+	UnloadImportedAssets: 0.061ms
+	Hotreload: 0.023ms
+	FixTempGuids: 0.002ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.117ms
+	UnloadStreamsBegin: 0.004ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.376ms
+	GetLoadedSourceAssetsSnapshot: 1.216ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 0.005ms
+	Untracked: -0.456ms
+Initializing Unity extensions:
+ '/Applications/Unity/2019.3.0f6/Unity.app/Contents/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll'  GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+[C# Project] Writing /Users/kabbouchi/UnityProjects/UnityMobileCITest/Assembly-CSharp-Editor.csproj because it has changed
+[C# Project] First difference on line 80
+
+[C# Project] Current /Users/kabbouchi/UnityProjects/UnityMobileCITest/Assembly-CSharp-Editor.csproj:
+[C# Project]   080:     <Reference Include="Unity.CollabProxy.Editor">
+[C# Project]   081:       <HintPath>/Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+[C# Project]   082:     </Reference>
+[C# Project]   083:     <Reference Include="Unity.TextMeshPro.Editor">
+[C# Project]   084:       <HintPath>/Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+
+[C# Project] New /Users/kabbouchi/UnityProjects/UnityMobileCITest/Assembly-CSharp-Editor.csproj:
+[C# Project]   080:     <Reference Include="Unity.TextMeshPro.Editor">
+[C# Project]   081:       <HintPath>/Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+[C# Project]   082:     </Reference>
+[C# Project]   083:     <Reference Include="UnityEngine.UI">
+[C# Project]   084:       <HintPath>/Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+Unloading 47 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 271.8 MB.
+System memory in use after: 271.1 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 1372.
+Total: 3.399319 ms (FindLiveObjects: 0.323448 ms CreateObjectMapping: 0.062099 ms MarkObjects: 2.033920 ms  DeleteObjects: 0.978929 ms)
+
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Unexpected node type.
+ #0 GetStacktrace(int)
+ #1 DebugStringToFile(DebugStringToFileData const&)
+ #2 void JSONRead::TransferSTLStyleMap<std::__1::map<int, core::basic_string<char, core::StringStorageDefault<char> >, std::__1::less<int>, std::__1::allocator<std::__1::pair<int const, core::basic_string<char, core::StringStorageDefault<char> > > > > >(std::__1::map<int, core::basic_string<char, core::StringStorageDefault<char> >, std::__1::less<int>, std::__1::allocator<std::__1::pair<int const, core::basic_string<char, core::StringStorageDefault<char> > > > >&, TransferMetaFlags)
+ #3 void JSONRead::Transfer<std::__1::map<int, core::basic_string<char, core::StringStorageDefault<char> >, std::__1::less<int>, std::__1::allocator<std::__1::pair<int const, core::basic_string<char, core::StringStorageDefault<char> > > > > >(std::__1::map<int, core::basic_string<char, core::StringStorageDefault<char> >, std::__1::less<int>, std::__1::allocator<std::__1::pair<int const, core::basic_string<char, core::StringStorageDefault<char> > > > >&, char const*, TransferMetaFlags, bool)
+ #4 void JSONUtility::DeserializeFromJSON<EditorOnlyScriptingSettings>(core::basic_string<char, core::StringStorageDefault<char> > const&, EditorOnlyScriptingSettings&)
+ #5 EditorOnlyScriptingSettings::LoadIfNotLoaded()
+ #6 EditorOnlyPlayerSettings::VerifyIfScriptCompilationIsNeeded() const
+ #7 Application::FinishLoadingProject()
+ #8 NoGraphicsMain()
+ #9 EditorMain(int, char const**)
+ #10 main
+ #11 start
+ #12 ???
+ 
+(Filename: ./Modules/JSONSerialize/Public/JSONRead.h Line: 360)
+
+Failed to load '/Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/LastBuild.buildreport'. File may be corrupted or was serialized with a newer version of Unity.
+ #0 GetStacktrace(int)
+ #1 DebugStringToFile(DebugStringToFileData const&)
+ #2 PrintSerializedFileLoadError(core::basic_string<char, core::StringStorageDefault<char> > const&, unsigned long, SerializedFileLoadError)
+ #3 SerializedFile::InitializeRead(core::basic_string<char, core::StringStorageDefault<char> > const&, ResourceImageGroup&, unsigned int, bool, TransferInstructionFlags, unsigned int, unsigned int)
+ #4 PersistentManager::GetStreamNameSpaceInternal(int)
+ #5 PersistentManager::DeleteFile(core::basic_string<char, core::StringStorageDefault<char> > const&, PersistentManager::DeletionFlags)
+ #6 BuildReporting::CreateReport(core::basic_string<char, core::StringStorageDefault<char> >)
+ #7 BuildPipeline_CUSTOM_BuildPlayerInternalNoCheck(ScriptingBackendNativeArrayPtrOpaque*, ScriptingBackendNativeStringPtrOpaque*, ScriptingBackendNativeStringPtrOpaque*, BuildTargetPlatformGroup, BuildTargetPlatform, BuildPlayerOptions, unsigned char)
+ #8  (Mono JIT Code) (wrapper managed-to-native) UnityEditor.BuildPipeline:BuildPlayerInternalNoCheck (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions,bool)
+ #9  (Mono JIT Code) [BuildPipeline.bindings.cs:376] UnityEditor.BuildPipeline:BuildPlayerInternal (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #10  (Mono JIT Code) [BuildPipeline.bindings.cs:275] UnityEditor.BuildPipeline:BuildPlayer (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #11  (Mono JIT Code) [BuildPipeline.bindings.cs:258] UnityEditor.BuildPipeline:BuildPlayer (UnityEditor.BuildPlayerOptions)
+ #12  (Mono JIT Code) [BuildPipeline.bindings.cs:253] UnityEditor.BuildPipeline:BuildPlayer (string[],string,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #13  (Mono JIT Code) [BatchBuild.cs:48] UnityBuild.BatchBuild:Build ()
+ 
+(Filename: ./Runtime/Serialize/SerializedFile.cpp Line: 215)
+
+Failed to load '/Users/kabbouchi/UnityProjects/UnityMobileCITest/Library/LastBuild.buildreport'. File may be corrupted or was serialized with a newer version of Unity.
+ #0 GetStacktrace(int)
+ #1 DebugStringToFile(DebugStringToFileData const&)
+ #2 PrintSerializedFileLoadError(core::basic_string<char, core::StringStorageDefault<char> > const&, unsigned long, SerializedFileLoadError)
+ #3 SerializedFile::InitializeRead(core::basic_string<char, core::StringStorageDefault<char> > const&, ResourceImageGroup&, unsigned int, bool, TransferInstructionFlags, unsigned int, unsigned int)
+ #4 PersistentManager::GetStreamNameSpaceInternal(int)
+ #5 PersistentManager::GetAllFileIDs(core::basic_string<char, core::StringStorageDefault<char> > const&, dynamic_array<long long, 0ul>&)
+ #6 PersistentManager::GetInstanceIDsAtPath(core::basic_string<char, core::StringStorageDefault<char> > const&, core::flat_set<int, std::__1::less<int>, 0ul>*)
+ #7 PersistentManager::DeleteFile(core::basic_string<char, core::StringStorageDefault<char> > const&, PersistentManager::DeletionFlags)
+ #8 BuildReporting::CreateReport(core::basic_string<char, core::StringStorageDefault<char> >)
+ #9 BuildPipeline_CUSTOM_BuildPlayerInternalNoCheck(ScriptingBackendNativeArrayPtrOpaque*, ScriptingBackendNativeStringPtrOpaque*, ScriptingBackendNativeStringPtrOpaque*, BuildTargetPlatformGroup, BuildTargetPlatform, BuildPlayerOptions, unsigned char)
+ #10  (Mono JIT Code) (wrapper managed-to-native) UnityEditor.BuildPipeline:BuildPlayerInternalNoCheck (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions,bool)
+ #11  (Mono JIT Code) [BuildPipeline.bindings.cs:376] UnityEditor.BuildPipeline:BuildPlayerInternal (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #12  (Mono JIT Code) [BuildPipeline.bindings.cs:275] UnityEditor.BuildPipeline:BuildPlayer (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #13  (Mono JIT Code) [BuildPipeline.bindings.cs:258] UnityEditor.BuildPipeline:BuildPlayer (UnityEditor.BuildPlayerOptions)
+ #14  (Mono JIT Code) [BuildPipeline.bindings.cs:253] UnityEditor.BuildPipeline:BuildPlayer (string[],string,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #15  (Mono JIT Code) [BatchBuild.cs:48] UnityBuild.BatchBuild:Build ()
+ 
+(Filename: ./Runtime/Serialize/SerializedFile.cpp Line: 215)
+
+Start importing ProjectSettings/GraphicsSettings.asset using Guid(00000000000000006100000000000000) Importer(-1,00000000000000000000000000000000)
+Done importing asset: 'ProjectSettings/GraphicsSettings.asset' (target hash: '3b6be64674acca0c3ed540bce6f689b7') in 0.034304 seconds
+Building style catalogs (6)
+	StyleSheets/Extensions/base/common.uss
+	StyleSheets/Northstar/common.uss
+	StyleSheets/Extensions/fonts/inter.uss
+	StyleSheets/Extensions/base/light.uss
+	Packages/com.unity.timeline/Editor/StyleSheets/Extensions/common.uss
+	Packages/com.unity.timeline/Editor/StyleSheets/Extensions/light.uss
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions)
+RefreshProfiler: Total: 494.151ms
+	InvokeBeforeRefreshCallbacks: 0.237ms
+	ApplyChangesToAssetFolders: 0.087ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 2.636ms
+	OnSourceAssetsModified: 2.053ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 3.176ms
+	GetAllGuidsForCategorization: 0.153ms
+	CategorizeAssets: 2.327ms
+	ImportAndPostprocessOutOfDateAssets: 479.477ms (1.770ms without children)
+		ImportManagerImport: 36.442ms (1.221ms without children)
+			ImportInProcess: 35.169ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.052ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 425.577ms
+		ReloadImportedAssets: 0.001ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.177ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.104ms
+		OnDemandSchedulerStart: 5.679ms
+		RestoreLoadedAssetsState: 6.825ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: 2.901ms
+	ReloadSourceAssets: 0.917ms
+	UnloadImportedAssets: 0.055ms
+	Hotreload: 0.871ms
+	FixTempGuids: 0.024ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.157ms
+	UnloadStreamsBegin: 0.111ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.497ms
+	GetLoadedSourceAssetsSnapshot: 8.316ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 0.168ms
+	Untracked: -7.113ms
+[ScriptCompilation] Recompiling all scripts because: Recompiling scripts for player build.
+BuildPlayer: start building target 9
+- Starting script compilation
+- Starting compile Library/PlayerScriptAssemblies/UnityEngine.TestRunner.dll
+- Starting compile Library/PlayerScriptAssemblies/UnityEngine.UI.dll
+- Finished compile Library/PlayerScriptAssemblies/UnityEngine.TestRunner.dll in 3.870716 seconds
+- Finished compile Library/PlayerScriptAssemblies/UnityEngine.UI.dll in 4.12503 seconds
+- Starting compile Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll
+- Starting compile Library/PlayerScriptAssemblies/Unity.Timeline.dll
+- Finished compile Library/PlayerScriptAssemblies/Unity.Timeline.dll in 4.01748 seconds
+- Finished compile Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll in 4.404038 seconds
+- Finished script compilation in 8.617233 seconds
+DisplayProgressbar: Building Player
+Refresh completed in 0.076722 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions)
+RefreshProfiler: Total: 76.709ms
+	InvokeBeforeRefreshCallbacks: 0.265ms
+	ApplyChangesToAssetFolders: 0.088ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 36.015ms
+	OnSourceAssetsModified: 0.001ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 3.976ms
+	GetAllGuidsForCategorization: 0.130ms
+	CategorizeAssets: 18.507ms
+	ImportAndPostprocessOutOfDateAssets: 13.031ms (1.535ms without children)
+		ImportManagerImport: 0.000ms (0.000ms without children)
+			ImportInProcess: 0.000ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.000ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 0.001ms
+		ReloadImportedAssets: 0.000ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.423ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.118ms
+		OnDemandSchedulerStart: 9.185ms
+		RestoreLoadedAssetsState: 1.769ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: -0.001ms
+	ReloadSourceAssets: 1.510ms
+	UnloadImportedAssets: 0.128ms
+	Hotreload: 0.039ms
+	FixTempGuids: 0.004ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.253ms
+	UnloadStreamsBegin: 0.009ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.634ms
+	GetLoadedSourceAssetsSnapshot: 2.337ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 0.009ms
+	Untracked: -0.226ms
+Opening scene 'Assets/Scenes/SampleScene.unity'
+LightmapEditorSettings: switching bake backend from 1 to 0.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            16.690 ms
+	Integration:            33.118 ms
+	Integration of assets:  0.009 ms
+	Thread Wait Time:       14.696 ms
+	Total Operation Time:   64.513 ms
+System memory in use before: 280.1 MB.
+System memory in use after: 279.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1423.
+Total: 6.868441 ms (FindLiveObjects: 0.366992 ms CreateObjectMapping: 0.045935 ms MarkObjects: 6.109782 ms  DeleteObjects: 0.344841 ms)
+
+
+
+Mono dependencies included in the build
+Dependency assembly - System.Diagnostics.StackTrace.dll
+Dependency assembly - System.Globalization.Extensions.dll
+Dependency assembly - System.Runtime.Serialization.Xml.dll
+Dependency assembly - System.Xml.XPath.XDocument.dll
+Dependency assembly - netstandard.dll
+Dependency assembly - Mono.Security.dll
+Dependency assembly - System.ComponentModel.Composition.dll
+Dependency assembly - System.Configuration.dll
+Dependency assembly - System.Core.dll
+Dependency assembly - System.Data.dll
+Dependency assembly - System.Drawing.dll
+Dependency assembly - System.EnterpriseServices.dll
+Dependency assembly - System.IO.Compression.FileSystem.dll
+Dependency assembly - System.IO.Compression.dll
+Dependency assembly - System.Net.Http.dll
+Dependency assembly - System.Numerics.dll
+Dependency assembly - System.Runtime.Serialization.dll
+Dependency assembly - System.ServiceModel.Internals.dll
+Dependency assembly - System.Transactions.dll
+Dependency assembly - System.Xml.Linq.dll
+Dependency assembly - System.Xml.dll
+Dependency assembly - System.dll
+Dependency assembly - mscorlib.dll
+Dependency assembly - Unity.TextMeshPro.dll
+Dependency assembly - Unity.Timeline.dll
+Dependency assembly - UnityEngine.UI.dll
+
+DisplayProgressbar: Fetching assembly references
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 286.9 MB.
+System memory in use after: 287.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1403.
+Total: 7.865675 ms (FindLiveObjects: 0.369514 ms CreateObjectMapping: 0.039284 ms MarkObjects: 7.428190 ms  DeleteObjects: 0.027020 ms)
+
+[EnlightenBakeManager] m_Clear = false;
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 700002a37000 -> priority: 1 
+  Thread -> id: 700002b3d000 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 286.6 MB.
+System memory in use after: 286.7 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1411.
+Total: 6.699509 ms (FindLiveObjects: 0.378557 ms CreateObjectMapping: 0.039943 ms MarkObjects: 6.266086 ms  DeleteObjects: 0.013707 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 386.7 MB.
+System memory in use after: 287.1 MB.
+
+Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 1403.
+Total: 37.420779 ms (FindLiveObjects: 0.420605 ms CreateObjectMapping: 0.043381 ms MarkObjects: 5.318016 ms  DeleteObjects: 31.637507 ms)
+
+DisplayProgressbar: Building Player
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+DisplayProgressbar: Compiling shader variants
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Launching external process: /Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Compiled shader 'Legacy Shaders/Diffuse' in 2.28s
+    metal (total internal programs: 96, unique: 31)
+Compiled shader 'Hidden/Internal-DepthNormalsTexture' in 1.60s
+    metal (total internal programs: 60, unique: 16)
+Compiled shader 'Hidden/Internal-PrePassLighting' in 3.03s
+    metal (total internal programs: 156, unique: 39)
+Compiled shader 'Hidden/Internal-ScreenSpaceShadows' in 2.93s
+    metal (total internal programs: 96, unique: 20)
+Compiled shader 'Hidden/Internal-DeferredShading' in 5.14s
+    metal (total internal programs: 162, unique: 80)
+Compiled shader 'Hidden/Internal-ODSWorldTexture' in 1.98s
+    metal (total internal programs: 60, unique: 14)
+Compiled shader 'Hidden/VideoDecode' in 2.39s
+    metal (total internal programs: 120, unique: 23)
+DisplayProgressbar: Building Player
+ARMv7 (32 bits) is deprecated, and will be removed from Unity 2020.1.
+ #0 GetStacktrace(int)
+ #1 DebugStringToFile(DebugStringToFileData const&)
+ #2 DebugLogHandler::Internal_Log(LogType, LogOption, core::basic_string<char, core::StringStorageDefault<char> >, Object*)
+ #3 DebugLogHandler_CUSTOM_Internal_Log(LogType, LogOption, ScriptingBackendNativeStringPtrOpaque*, ScriptingBackendNativeObjectPtrOpaque*)
+ #4  (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+ #5  (Mono JIT Code) [BuildPostProcessor.cs:645] UnityEditor.iOS.PostProcessiPhonePlayer:PostProcess (UnityEditor.iOS.PostProcessorSettings,UnityEditor.Modules.BuildPostProcessArgs)
+ #6  (Mono JIT Code) [ExtensionModule.cs:45] UnityEditor.iOS.iOSBuildPostprocessor:PostProcess (UnityEditor.Modules.BuildPostProcessArgs)
+ #7  (Mono JIT Code) [DefaultBuildPostprocessor.cs:27] UnityEditor.Modules.DefaultBuildPostprocessor:PostProcess (UnityEditor.Modules.BuildPostProcessArgs,UnityEditor.BuildProperties&)
+ #8  (Mono JIT Code) [PostprocessBuildPlayer.cs:340] UnityEditor.PostprocessBuildPlayer:Postprocess (UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,string,string,string,int,int,UnityEditor.BuildOptions,UnityEditor.RuntimeClassRegistry,UnityEditor.Build.Reporting.BuildReport)
+ #9  (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_int_int_object_object_object_int_int_int_object_object (object,intptr,intptr,intptr)
+ #10 mono_jit_runtime_invoke
+ #11 do_runtime_invoke
+ #12 mono_runtime_invoke
+ #13 scripting_method_invoke(ScriptingMethodPtr, ScriptingObjectPtr, ScriptingArguments&, ScriptingExceptionPtr*, bool)
+ #14 ScriptingInvocation::Invoke(ScriptingExceptionPtr*, bool)
+ #15 CallMono(char const*, char const*, char const*, ScriptingArguments const&)
+ #16 DoBuildPlayer_PostBuild(core::basic_string<char, core::StringStorageDefault<char> >&, BuildPlayerOptions, ScriptingObjectPtr, BuildTargetPlatformGroup, BuildTargetPlatform, BuildReporting::BuildReport&)
+ #17 DoBuildPlayer(BuildPlayerSetup const&, std::__1::vector<EditorSceneBackup, stl_allocator<EditorSceneBackup, (MemLabelIdentifier)117, 16> >&, core::basic_string<char, core::StringStorageDefault<char> >, std::__1::vector<core::basic_string<char, core::StringStorageDefault<char> >, std::__1::allocator<core::basic_string<char, core::StringStorageDefault<char> > > >, bool, BuildReporting::BuildReport&, BuildReporting::BuiltAssetBundleInfo*, core::basic_string<char, core::StringStorageDefault<char> > const&)
+ #18 BuildPlayer(BuildPlayerSetup const&, BuildReporting::BuildReport&)
+ #19 BuildPipeline_CUSTOM_BuildPlayerInternalNoCheck(ScriptingBackendNativeArrayPtrOpaque*, ScriptingBackendNativeStringPtrOpaque*, ScriptingBackendNativeStringPtrOpaque*, BuildTargetPlatformGroup, BuildTargetPlatform, BuildPlayerOptions, unsigned char)
+ #20  (Mono JIT Code) (wrapper managed-to-native) UnityEditor.BuildPipeline:BuildPlayerInternalNoCheck (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions,bool)
+ #21  (Mono JIT Code) [BuildPipeline.bindings.cs:376] UnityEditor.BuildPipeline:BuildPlayerInternal (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #22  (Mono JIT Code) [BuildPipeline.bindings.cs:275] UnityEditor.BuildPipeline:BuildPlayer (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #23  (Mono JIT Code) [BuildPipeline.bindings.cs:258] UnityEditor.BuildPipeline:BuildPlayer (UnityEditor.BuildPlayerOptions)
+ #24  (Mono JIT Code) [BuildPipeline.bindings.cs:253] UnityEditor.BuildPipeline:BuildPlayer (string[],string,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #25  (Mono JIT Code) [BatchBuild.cs:48] UnityBuild.BatchBuild:Build ()
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DisplayProgressbar: Fetching assembly references
+DisplayProgressbar: Building Player
+Invoking UnityLinker with arguments: -out="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/StagingArea/Data/Managed/tempStrip" -x="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/StagingArea/Data/Managed/../platform_native_link.xml" -x="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/StagingArea/Data/Managed/TypesInScenes.xml" -d="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/StagingArea/Data/Managed" --include-unity-root-assembly="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll" --dotnetruntime=il2cpp --dotnetprofile=unityaot --use-editor-options --include-directory="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/StagingArea/Data/Managed" --rule-set=Conservative --editor-data-file="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json" --platform=iOS --enable-engine-module-stripping --engine-modules-asset-file="/Applications/Unity/2019.3.0f6/PlaybackEngines/iOSSupport/Whitelists/../modules.asset"
+/Applications/Unity/2019.3.0f6/Unity.app/Contents/il2cpp/build/deploy/net471/UnityLinker.exe exited after 5375 ms.
+/Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/InternalCallRegistrationWriter/InternalCallRegistrationWriter.exe exited after 385 ms.
+Invoking il2cpp with arguments: --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile="unityaot" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser="/Applications/Unity/2019.3.0f6/Unity.app/Contents/Tools/MapFileParser/MapFileParser" --directory="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/StagingArea/Data/Managed" --generatedcppdir="/Users/kabbouchi/UnityProjects/UnityMobileCITest/Temp/il2cppOutput/il2cppOutput" 
+/Applications/Unity/2019.3.0f6/Unity.app/Contents/il2cpp/build/deploy/il2cppcore/il2cppcore.dll exited after 24297 ms.
+2021-03-08 14:51:54.293 defaults[25565:2968287] 
+The domain/default pair of (com.apple.dt.Xcode.plist, IDECustomDerivedDataLocation) does not exist
+Splash screen images not provided: iPhone 3.5'' (640x960px), iPhone 4'' (640x1136px), iPhone 4.7'' (750x1334px), iPhone 5.5'' (1242x2208px), iPhone 5.5'' (2208x1242px) Landscape, iiPhone 5.8'' (1125x2436px), iPhone 5.8'' (2436x1125px) Landscape, iPhone 6.5'' (1242x2688px), iPhone 6.5'' (2688x1242px) Landscape, iPhone 6.1'' (828x1792px), iPhone 6.1'' (1792x828px) Landscape, iPad (768x1024px) Portrait, iPad (1024x768px) Landscape, iPad (1536x2048px) Portrait, iPad (2048x1536px) Landscape
+ #0 GetStacktrace(int)
+ #1 DebugStringToFile(DebugStringToFileData const&)
+ #2 DebugLogHandler::Internal_Log(LogType, LogOption, core::basic_string<char, core::StringStorageDefault<char> >, Object*)
+ #3 DebugLogHandler_CUSTOM_Internal_Log(LogType, LogOption, ScriptingBackendNativeStringPtrOpaque*, ScriptingBackendNativeObjectPtrOpaque*)
+ #4  (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+ #5  (Mono JIT Code) [BuildPostProcessor.cs:1418] UnityEditor.iOS.PostProcessiPhonePlayer:UpdateInstallLocation (UnityEditor.iOS.PostProcessiPhonePlayer/ProjectPaths,UnityEditor.iOS.PostProcessiPhonePlayer/BuildSettings,UnityEditor.iOS.PostProcessiPhonePlayer/IncludedFileList,UnityEditor.Build.Reporting.BuildReport)
+ #6  (Mono JIT Code) [BuildPostProcessor.cs:807] UnityEditor.iOS.PostProcessiPhonePlayer:PostProcess (UnityEditor.iOS.PostProcessiPhonePlayer/BuildSettings,UnityEditor.iOS.PostProcessiPhonePlayer/ProjectPaths,UnityEditor.RuntimeClassRegistry,UnityEditor.Build.Reporting.BuildReport)
+ #7  (Mono JIT Code) [BuildPostProcessor.cs:656] UnityEditor.iOS.PostProcessiPhonePlayer:PostProcess (UnityEditor.iOS.PostProcessorSettings,UnityEditor.Modules.BuildPostProcessArgs)
+ #8  (Mono JIT Code) [ExtensionModule.cs:45] UnityEditor.iOS.iOSBuildPostprocessor:PostProcess (UnityEditor.Modules.BuildPostProcessArgs)
+ #9  (Mono JIT Code) [DefaultBuildPostprocessor.cs:27] UnityEditor.Modules.DefaultBuildPostprocessor:PostProcess (UnityEditor.Modules.BuildPostProcessArgs,UnityEditor.BuildProperties&)
+ #10  (Mono JIT Code) [PostprocessBuildPlayer.cs:340] UnityEditor.PostprocessBuildPlayer:Postprocess (UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,string,string,string,int,int,UnityEditor.BuildOptions,UnityEditor.RuntimeClassRegistry,UnityEditor.Build.Reporting.BuildReport)
+ #11  (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_int_int_object_object_object_int_int_int_object_object (object,intptr,intptr,intptr)
+ #12 mono_jit_runtime_invoke
+ #13 do_runtime_invoke
+ #14 mono_runtime_invoke
+ #15 scripting_method_invoke(ScriptingMethodPtr, ScriptingObjectPtr, ScriptingArguments&, ScriptingExceptionPtr*, bool)
+ #16 ScriptingInvocation::Invoke(ScriptingExceptionPtr*, bool)
+ #17 CallMono(char const*, char const*, char const*, ScriptingArguments const&)
+ #18 DoBuildPlayer_PostBuild(core::basic_string<char, core::StringStorageDefault<char> >&, BuildPlayerOptions, ScriptingObjectPtr, BuildTargetPlatformGroup, BuildTargetPlatform, BuildReporting::BuildReport&)
+ #19 DoBuildPlayer(BuildPlayerSetup const&, std::__1::vector<EditorSceneBackup, stl_allocator<EditorSceneBackup, (MemLabelIdentifier)117, 16> >&, core::basic_string<char, core::StringStorageDefault<char> >, std::__1::vector<core::basic_string<char, core::StringStorageDefault<char> >, std::__1::allocator<core::basic_string<char, core::StringStorageDefault<char> > > >, bool, BuildReporting::BuildReport&, BuildReporting::BuiltAssetBundleInfo*, core::basic_string<char, core::StringStorageDefault<char> > const&)
+ #20 BuildPlayer(BuildPlayerSetup const&, BuildReporting::BuildReport&)
+ #21 BuildPipeline_CUSTOM_BuildPlayerInternalNoCheck(ScriptingBackendNativeArrayPtrOpaque*, ScriptingBackendNativeStringPtrOpaque*, ScriptingBackendNativeStringPtrOpaque*, BuildTargetPlatformGroup, BuildTargetPlatform, BuildPlayerOptions, unsigned char)
+ #22  (Mono JIT Code) (wrapper managed-to-native) UnityEditor.BuildPipeline:BuildPlayerInternalNoCheck (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions,bool)
+ #23  (Mono JIT Code) [BuildPipeline.bindings.cs:376] UnityEditor.BuildPipeline:BuildPlayerInternal (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #24  (Mono JIT Code) [BuildPipeline.bindings.cs:275] UnityEditor.BuildPipeline:BuildPlayer (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #25  (Mono JIT Code) [BuildPipeline.bindings.cs:258] UnityEditor.BuildPipeline:BuildPlayer (UnityEditor.BuildPlayerOptions)
+ #26  (Mono JIT Code) [BuildPipeline.bindings.cs:253] UnityEditor.BuildPipeline:BuildPlayer (string[],string,UnityEditor.BuildTarget,UnityEditor.BuildOptions)
+ #27  (Mono JIT Code) [BatchBuild.cs:48] UnityBuild.BatchBuild:Build ()
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+-------------------------------------------------------------------------------
+Build Report
+Uncompressed usage by category (Percentages based on user generated assets only):
+Textures               0.0 kb	 0.0% 
+Meshes                 0.0 kb	 0.0% 
+Animations             0.0 kb	 0.0% 
+Sounds                 0.0 kb	 0.0% 
+Shaders                0.0 kb	 0.0% 
+Other Assets           0.6 kb	 0.0% 
+Levels                 5.7 kb	 0.1% 
+Scripts                472.5 kb	 10.8% 
+Included DLLs          3.8 mb	 88.8% 
+File headers           12.5 kb	 0.3% 
+Total User Assets      4.3 mb	 100.0% 
+Complete build size    673.8 mb
+Used Assets and files from the Resources folder, sorted by uncompressed size:
+ 0.3 kb	 0.0% Resources/unity_builtin_extra
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/RestoreTestContextAfterDomainReload.cs
+ 0.2 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/RectMask2DWithNestedCanvasCullsUsingCorrectCanvasRect.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityLogCheckDelegatingCommand.cs
+ 0.2 kb	 0.0% Packages/com.unity.timeline/Runtime/AssetUpgrade/AnimationPlayableAssetUpgrade.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityTestExecutionContext.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableApplyChangesToContextCommand.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/Vector4ComparerWithEqualsOperator.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/Vector3ComparerWithEqualsOperator.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/Vector2ComparerWithEqualsOperator.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultDataWithTestData.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRendererCallback.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/PlaymodeTestsControllerSettings.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItemDataHolder.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityTestAssemblyRunner.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/PlaymodeWorkItemFactory.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/CoroutineTestWorkItem.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Filters/CategoryFilterExtended.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/UnexpectedLogMessageException.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultDataFactory.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/RemoteHelpers/PlayerConnectionMessageIds.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/Callbacks/RemoteTestResultSender.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/Callbacks/PlayModeRunnerCallback.cs
+ 0.2 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/AllocatingGCMemoryConstraint.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/UnityTestAssemblyBuilder.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/TestCommandBuilder.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/DefaultTestWorkItem.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/CompositeWorkItem.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Filters/AssemblyNameFilter.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableSetUpTearDownCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableRepeatedTestCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Attributes/TestMustExpectAllLogsAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/UnityTestTimeoutException.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/UnhandledLogMessageException.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/InvalidSignatureException.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/CanvasScalerWithChildTextObjectDoesNotCrash.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/QuaternionEqualityComparer.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/PlayerTestAssemblyProvider.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRenderer.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/PostBuildCleanupAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestEnumeratorWrapper.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/PlaymodeTestsController.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/TestResultExtensions.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/WorkItemFactory.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItem.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/ConstructDelegator.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/OuterUnityTestActionCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/ImmediateEnumerableCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableTestMethodCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableRetryTestCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/BeforeAfterTestCommandState.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityCombinatorialStrategy.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Attributes/ConditionalIgnoreAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/NestedLayout/SceneWithNestedLayoutElementsLoadScript.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/GraphicRaycasterWorldSpaceCanvasTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/NoActiveCameraInSceneDoesNotCrashEditor.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/CanvasSizeCorrectInAwakeAndStartScript.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Animation/AnimationPreviewUpdateCallback.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Animation/AnimationOutputWeightProcessor.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/Vector4EqualityComparer.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/Vector3EqualityComparer.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/Vector2EqualityComparer.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/TestRunCallbackListener.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/FloatEqualityComparer.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/ColorEqualityComparer.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/ScriptingRuntimeProxy.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/SynchronousFilter.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultData.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalOrVerticalLayoutGroup.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/TestRunCallbackAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/TestExtensions.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/FailCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/BaseDelegator.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTearDownAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityPlatformAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/ActionDelegator.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/NestedLayout/SceneWithNestedLayoutElementsLoads.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/CoroutineWorksIfUIObjectIsAttached.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/AnimationPreviewUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/TimeNotificationBehaviour.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/ActivationControlPlayable.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyLoadProxy.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestRunnerFilter.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestData.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Util/UIBehaviourExtensions.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/AssetUpgrade/AnimationTrackUpgrade.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/Messages/IEditModeTestYieldInstruction.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/TestCommandPcHelper.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/TestActionCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/SetUpTearDownCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTestAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnitySetUpAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/InputField/GenericInputFieldTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/InputField/DesktopInputFieldTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/RectTransformValidAfterEnable.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/NestedCanvasMaintainsCorrectSize.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/CheckMeshColorsAndColors32Match.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/CanvasSizeCorrectInAwakeAndStart.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/BridgeScriptForRetainingObjects.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/TimelineCreateUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/NotificationUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/PrefabControlPlayable.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/ParticleControlPlayable.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/DirectorControlPlayable.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/Signals/CustomSignalEventDrawer.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Animation/AnimationPlayableAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Activation/ActivationPlayableAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Activation/ActivationMixerPlayable.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ScrollbarEventHandler.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_PackageResourceImporter.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_EditorResourceManager.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/CoroutineRunner.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyWrapper.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Util/GraphicTestHelper.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Util/ExceptionUtils.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Layout/VerticalLayoutGroupTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Layout/ContentSizeFitterTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Utility/ReflectionMethodsCache.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/MultipleDisplayUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/GraphicRebuildTracker.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Culling/RectangularVertexClipper.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/Raycasters/Physics2DRaycaster.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/InputModules/PointerInputModule.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/PrebuildSceneSetupAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AttributeHelper.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/RemoteHelpers/IRemoteTestResultDataFactory.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/IEnumerableTestMethodCommand.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/IAsyncTestAssemblyBuilder.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/BeforeAfterTestCommandBase.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Attributes/TestEnumerator.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/TextEditor/TextEditorBackspaceDelete.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Layout/HorizonalLayoutGroupTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/InputField/TouchInputFieldTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/SiblingOrderChangesLayout.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/CanvasGroupInheritedAlpha.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/AnimatorBindingCache.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/TimeControlPlayable.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Evaluation/ScheduleRuntimeClip.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Evaluation/InfiniteRuntimeClip.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Control/ControlPlayableAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Audio/AudioPlayableAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Audio/AudioMixerProperties.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Audio/AudioClipProperties.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Attributes/TrackColorAttribute.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_ExtensionMethods.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextParsingUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextElement_Legacy.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteAssetImportFormats.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAssetUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/MaterialReferenceManager.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Util/ConcreteGraphic.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Toggle/TestableToggleGroup.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Layout/LayoutGroupScaling.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/SelectableTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/SetPropertyUtility.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/VerticalLayoutGroup.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/ContentSizeFitter.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/AspectRatioFitter.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/FontUpdateTracker.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/CanvasUpdateRegistry.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/AnimationTriggers.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/Raycasters/PhysicsRaycaster.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/Raycasters/BaseRaycaster.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/RaycasterManager.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/InputModules/TouchInputModule.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/InputModules/BaseInputModule.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/EventData/PointerEventData.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/EventData/BaseEventData.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/EventData/AxisEventData.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/TimelineAsset_CreateRemove.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/INotificationOptionProvider.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/IOuterUnityTestAction.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/ITestAssemblyProvider.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/IScriptingRuntimeProxy.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/LogScope/LogScope.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/LogScope/LogMatch.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/LogScope/LogEvent.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/LogAssert.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/ConstraintsExtensions.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/ScrollRect/ScrollRectStableLayout.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/MaskClipping/RectMask2DClipping.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/LayoutGroup/LayoutGroupArrangement.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/InputField/FakeInputModule.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Image/ImageFilledGenerateWork.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/PhysicsRaycasterTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/GraphicRaycasterTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/WeightUtility.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/Extrapolation.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/TimelinePlayable.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/TimelineAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Scripting/PlayableTrack.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/Signals/SignalReceiver.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/Signals/SignalEmitter.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Evaluation/RuntimeElement.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Evaluation/RuntimeClipBase.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Animation/AnimationTrack.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Activation/ActivationTrack.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_EventManager.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_UpdateManager.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteCharacter.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteAnimator.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SelectionCaret.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_RichTextTagsCommon.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_MaterialManager.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_InputValidator.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontFeaturesCommon.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontFeatureTable.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_DefaultControls.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ColorGradient.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/Utils.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/Is.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Util/ImageHook.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Toggle/ToggleGroupTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Graphic/ImageTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/PositionAsUV1.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/BaseMeshEffect.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/StencilMaterial.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/MaskableGraphic.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/MaskUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/LayoutUtility.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/LayoutRebuilder.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/LayoutElement.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/GridLayoutGroup.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/IGraphicEnabledDisabled.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/GraphicRegistry.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/DefaultControls.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Culling/ClipperRegistry.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/InputModules/BaseInput.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/EventTrigger.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Tests/Runtime/TMP_RuntimeTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/MonoBehaviourTest/MonoBehaviourTest.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/MonoBehaviourTest/IMonoBehaviourTest.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/IPrebuildSceneSetup.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/IPostBuildCleanup.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/IAssemblyLoadProxy.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/ITestRunnerListener.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Util/PrivateFieldSetter.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Layout/GridLayoutGroupTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Graphic/ToggleTestImageHook.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/RaycastSortingTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/InputModuleTests/DragCallbackCheck.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/CreateSceneUtility.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/TimelineUndo.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/TimeUtility.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/HashUtility.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/TrackAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/TimelineClip.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/GroupTrack.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/Signals/SignalAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/SignalTrack.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/MarkerTrack.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Evaluation/RuntimeClip.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Control/ControlTrack.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Audio/AudioTrack.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TextContainer.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_UGUI_Private.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_MeshUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_UpdateRegistery.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextElement.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SubMeshUI.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_StyleSheet.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteGlyph.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ShaderUtilities.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_RichTextTagStack.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_InputField.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAssetCommon.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_CoroutineTween.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_CharacterInfo.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Character.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Toggle/ToggleTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Utility/VertexHelper.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/ToggleGroup.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Selectable.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Scrollbar.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/RectMask2D.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/MaterialModifiers/IMaterialModifier.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/LayoutGroup.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/IPropertyCollector.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/TimelineAttributes.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Timeline.deprecated.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/NotificationFlags.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/BasicScriptPlayable.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/StacktraceFilter.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/ITestRunCallback.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/IAssemblyWrapper.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/IStateSerializer.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/TextEditor/TextEditorTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/ScrollRect/ScrollRectTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/ScrollRect/ScrollRectScale.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/ScrollRect/ScrollRectClamp.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/ScrollBar/ScrollBarTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/ScrollBar/ScrollBarClamp.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/InputField/InputFieldTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Image/TestableImage.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Graphic/RawImageTestHook.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Graphic/RawImageTest.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Graphic/MaskTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Graphic/GraphicTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/InputModuleTests/FakeBaseInput.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/InputModuleTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Dropdown/DropdownTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/Marker.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshPro.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_Private.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextInfo.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SubMesh.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Style.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Sprite.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Settings.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ObjectPool.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Dropdown.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Asset.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/FastAction.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/AssemblyInfo.cs.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/Shadow.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/Outline.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/IMeshModifier.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Toggle.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Slider.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Layout/ILayoutElement.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Graphic.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/FontData.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Dropdown.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Culling/Clipping.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Animation/CoroutineTween.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/RaycastResult.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/MoveDirection.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/EventTriggerType.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/EventInterfaces.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Utilities/IPropertyPreview.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Extensions/TrackExtensions.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/AssetUpgrade/TimelineUpgrade.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestPlatform.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/LogScope/ILogScope.cs
+ 0.1 kb	 0.0% Packages/com.unity.test-framework/UnityEngine.TestRunner/AssemblyInfo.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Slider/SliderTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Image/ImageTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/EventSystem/InputModuleTests/MouseUpdate.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Canvas/NestedCanvas.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Button/TestButton.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Tests/Runtime/Button/ButtonTests.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Text.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_MeshInfo.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ListPool.cs
+ 0.1 kb	 0.0% Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_LineInfo.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Utility/ObjectPool.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/SpriteState.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/SpecializedCollections/IndexedSet.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Navigation.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Misc.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Mask.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/IMaskable.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Culling/IClipRegion.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/ColorBlock.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/Properties/AssemblyInfo.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/EventSystem/EventHandle.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Properties/AssemblyInfo.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Playables/ITimeControl.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/ILayerable.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/MarkerList.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Evaluation/IntervalTree.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/DiscreteTime.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/AssetUpgrade/TrackUpgrade.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/AssetUpgrade/ClipUpgrade.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Animation/ICurvesOwner.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/Utility/ListPool.cs
+ 0.1 kb	 0.0% Packages/com.unity.ugui/Runtime/UI/Core/IMask.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/Events/IMarker.cs
+ 0.1 kb	 0.0% Packages/com.unity.timeline/Runtime/ClipCaps.cs
+-------------------------------------------------------------------------------
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 293.0 MB.
+System memory in use after: 292.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1415.
+Total: 37.050815 ms (FindLiveObjects: 4.213774 ms CreateObjectMapping: 0.516111 ms MarkObjects: 27.189202 ms  DeleteObjects: 5.130280 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.401 ms
+	Integration:            798.529 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       20.864 ms
+	Total Operation Time:   820.798 ms
+System memory in use before: 292.5 MB.
+System memory in use after: 292.7 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1411.
+Total: 12.983544 ms (FindLiveObjects: 1.082767 ms CreateObjectMapping: 0.138149 ms MarkObjects: 11.736866 ms  DeleteObjects: 0.024393 ms)
+
+Batchmode quit successfully invoked - shutting down!
+[Performance] Application.InitializeProject                               :        1 samples, Peak.  12.3 s (1.0x), Avg.  12.3 s, Total. 12.34 s (10.9%)
+[Performance] Application.PackageManager.StartServer                      :        1 samples, Peak.  4.20 ms (1.0x), Avg.  4.20 ms, Total. 4.205 ms (0.0%)
+[Performance] Application.IsBrowserCacheEmpty                             :        1 samples, Peak.   111 us (1.0x), Avg.   111 us, Total. 110.6 us (0.0%)
+[Performance] Application.AcquireProjectLock                              :        1 samples, Peak.  4.10 ms (1.0x), Avg.  4.10 ms, Total. 4.101 ms (0.0%)
+[Performance] Application.InitializeEngineNoGraphics                      :        1 samples, Peak.   168 ms (1.0x), Avg.   168 ms, Total. 167.9 ms (0.1%)
+[Performance] Application.PackageManager.Initialize                       :        1 samples, Peak.  1.00 s (1.0x), Avg.  1.00 s, Total. 1.000 s (0.9%)
+[Performance] CurlRequestCheck                                            :       20 samples, Peak.  66.3 us (2.0x), Avg.  33.0 us, Total. 659.8 us (0.0%)
+[Performance] PackageManager::RunRequestSynchronously                     :       13 samples, Peak.  87.8 us (4.8x), Avg.  18.3 us, Total. 238.2 us (0.0%)
+[Performance] Application.EngineGraphics.Initialize                       :        1 samples, Peak.  69.6 ms (1.0x), Avg.  69.6 ms, Total. 69.60 ms (0.1%)
+[Performance] Application.GI.Initialize                                   :        1 samples, Peak.   303 ms (1.0x), Avg.   303 ms, Total. 302.6 ms (0.3%)
+[Performance] Application.LoadAllDefaultResourcesFromEditor               :        1 samples, Peak.  2.90 ms (1.0x), Avg.  2.90 ms, Total. 2.896 ms (0.0%)
+[Performance] Application.LoadMonoAssemblies                              :        1 samples, Peak.  4.30 s (1.0x), Avg.  4.30 s, Total. 4.296 s (3.8%)
+[Performance] ProcessService.EditorAfterLoadAllAssemblies                 :        2 samples, Peak.  88.6 ms (1.2x), Avg.  74.6 ms, Total. 149.2 ms (0.1%)
+[Performance] Application.ReadLicenseInfo                                 :        1 samples, Peak.  3.62 ms (1.0x), Avg.  3.62 ms, Total. 3.619 ms (0.0%)
+[Performance] Application.InitialScriptRefresh                            :        1 samples, Peak.  2.32 s (1.0x), Avg.  2.32 s, Total. 2.316 s (2.1%)
+[Performance] Application.AssetDatabase.Refresh                           :        1 samples, Peak.  53.6 ms (1.0x), Avg.  53.6 ms, Total. 53.59 ms (0.0%)
+[Performance] Application.ImportAssetsWithMismatchingAssetImporterVersion :        1 samples, Peak.   117 ms (1.0x), Avg.   117 ms, Total. 117.4 ms (0.1%)
+[Performance] Application.SyncCurrentColorSpace                           :        1 samples, Peak.  54.9 ms (1.0x), Avg.  54.9 ms, Total. 54.92 ms (0.0%)
+[Performance] Application.OnUsbDevicesChanged                             :        1 samples, Peak.   426 us (1.0x), Avg.   426 us, Total. 425.8 us (0.0%)
+[Performance] Application.AssetInstanceCacheUpdate                        :        1 samples, Peak.   232 ns (1.0x), Avg.   232 ns, Total. 232.0 ns (0.0%)
+[Performance] Application.UnityExtensions.Initialize                      :        1 samples, Peak.   765 us (1.0x), Avg.   765 us, Total. 764.8 us (0.0%)
+[Performance] Application.InitializeManagedCompilationPipeline            :        1 samples, Peak.   495 ms (1.0x), Avg.   495 ms, Total. 494.9 ms (0.4%)
+[Performance] Application.ExecuteStartups                                 :        1 samples, Peak.   416 ms (1.0x), Avg.   416 ms, Total. 416.0 ms (0.4%)
+[Performance] Application.RebuildOSMenu                                   :        1 samples, Peak.  87.8 ms (1.0x), Avg.  87.8 ms, Total. 87.85 ms (0.1%)
+[Performance] Application.editorInitializingProject                       :        1 samples, Peak.  40.8 us (1.0x), Avg.  40.8 us, Total. 40.77 us (0.0%)
+[Performance] GUIView.RepaintAll.PlayerLoopController                     :        4 samples, Peak.   731 ns (1.4x), Avg.   507 ns, Total. 2.028 us (0.0%)
+[Performance] Application.InvokeFinishedLoadingProject                    :        1 samples, Peak.  64.4 ms (1.0x), Avg.  64.4 ms, Total. 64.40 ms (0.1%)
+[Performance] ProcessService.OnProjectLoaded                              :        1 samples, Peak.  61.9 ms (1.0x), Avg.  61.9 ms, Total. 61.86 ms (0.1%)
+[Performance] BuildCatalog                                                :        1 samples, Peak.   391 ms (1.0x), Avg.   391 ms, Total. 391.0 ms (0.3%)
+Refresh completed in 0.076355 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions)
+RefreshProfiler: Total: 76.324ms
+	InvokeBeforeRefreshCallbacks: 0.962ms
+	ApplyChangesToAssetFolders: 0.221ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 57.160ms
+	OnSourceAssetsModified: 0.000ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 14.918ms
+	GetAllGuidsForCategorization: 0.000ms
+	CategorizeAssets: 0.000ms
+	ImportAndPostprocessOutOfDateAssets: 0.000ms (0.001ms without children)
+		ImportManagerImport: 0.000ms (0.000ms without children)
+			ImportInProcess: 0.000ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.000ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 0.000ms
+		ReloadImportedAssets: 0.000ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.000ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.000ms
+		RestoreLoadedAssetsState: 0.000ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: -0.001ms
+	ReloadSourceAssets: 0.000ms
+	UnloadImportedAssets: 0.000ms
+	Hotreload: 0.031ms
+	FixTempGuids: 0.008ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.374ms
+	UnloadStreamsBegin: 0.013ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.710ms
+	GetLoadedSourceAssetsSnapshot: 0.903ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 0.011ms
+	Untracked: 1.012ms
+Refresh completed in 0.052464 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions)
+RefreshProfiler: Total: 52.453ms
+	InvokeBeforeRefreshCallbacks: 0.803ms
+	ApplyChangesToAssetFolders: 0.171ms
+	WriteModifiedImportersToTextMetaFiles: 0.000ms
+	CleanLegacyArtifacts: 0.000ms
+	Scan: 43.724ms
+	OnSourceAssetsModified: 0.000ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 4.393ms
+	GetAllGuidsForCategorization: 0.000ms
+	CategorizeAssets: 0.000ms
+	ImportAndPostprocessOutOfDateAssets: 0.000ms (0.000ms without children)
+		ImportManagerImport: 0.000ms (0.000ms without children)
+			ImportInProcess: 0.000ms
+			ImportOutOfProcess: 0.000ms
+			UpdateCategorizedAssets: 0.000ms
+			RemoteAssetCacheGetArtifact: 0.000ms (0.000ms without children)
+				RemoteAssetCacheResolve: 0.000ms
+				RemoteAssetCacheDownloadFile: 0.000ms
+		CompileScripts: 0.000ms
+		PostProcessAllAssets: 0.000ms
+		ReloadImportedAssets: 0.000ms
+		VerifyAssetsAreUpToDateAndCorrect: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.000ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.000ms
+		RestoreLoadedAssetsState: 0.000ms
+	InvokeProjectHasChanged: 0.000ms
+	UpdateImportedAssetsSnapshot: -0.000ms
+	ReloadSourceAssets: 0.000ms
+	UnloadImportedAssets: 0.000ms
+	Hotreload: 0.031ms
+	FixTempGuids: 0.005ms
+	VerifyGuidPMRegistrations: 0.000ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.194ms
+	UnloadStreamsBegin: 0.010ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.616ms
+	GetLoadedSourceAssetsSnapshot: 1.421ms
+	PersistCurrentRevisions: 0.000ms
+	UnloadStreamsEnd: 0.009ms
+	Untracked: 1.076ms
+Cleanup mono
+debugger-agent: Unable to listen on 45
+[usbmuxd] Stop listen thread
+[usbmuxd] Error: 
+[usbmuxd] Listen thread exiting
+Exiting batchmode successfully now!
+[Package Manager] Server::Kill -- Server was shutdown
