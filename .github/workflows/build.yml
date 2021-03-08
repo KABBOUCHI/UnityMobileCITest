@@ -14,7 +14,7 @@ jobs:
 
       - run: |
           sudo gem install u3d
-          sudo u3d install 2019.1.0f2 -p Unity,iOS
+          sudo u3d install 2019.3.0f6 -p Unity,iOS
           sudo apt-get install -y libglu1-mesa
           sudo u3d dependencies
 
@@ -22,7 +22,7 @@ jobs:
           git clone --depth=1 https://gitlab+deploy-token-383357:9qK9eTgVopu4Luwcn4xk@gitlab.com/kabbouchi/soft-dev-inc.git .
       
       - run: |
-          u3d -u 2019.1.0f2 -- -batchmode -nographics -quit -silent-crashes -logFile editor.log -username ${{ secrets.UNITY_USERNAME }} -password ${{ secrets.UNITY_PASSWORD }} -serial ${{ secrets.UNITY_SERIAL }} -buildTarget iOS -executeMethod UnityBuild.BatchBuild.Build -outputPath "Output"
+          u3d -u 2019.3.0f6 -- -batchmode -nographics -quit -silent-crashes -logFile editor.log -username ${{ secrets.UNITY_USERNAME }} -password ${{ secrets.UNITY_PASSWORD }} -serial ${{ secrets.UNITY_SERIAL }} -buildTarget iOS -executeMethod UnityBuild.BatchBuild.Build -outputPath "Output"
 
       # - uses: yukiarrr/ios-build-action@v1.2.0
       #     with:
