@@ -13,8 +13,8 @@ jobs:
           bundler-cache: true
 
       - run: |
-          gem install u3d
-          u3d install 2019.1.0f2 -p Unity,iOS
+          sudo gem install u3d
+          sudo u3d install 2019.1.0f2 -p Unity,iOS
 
       - run: |
           git clone --depth=1 https://gitlab+deploy-token-383357:9qK9eTgVopu4Luwcn4xk@gitlab.com/kabbouchi/soft-dev-inc.git .
